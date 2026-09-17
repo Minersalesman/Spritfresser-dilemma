@@ -13,4 +13,4 @@ Verbrauchen SUVs wirklich so viel mehr Sprit als Kompaktwagen? Und wie rechnet m
 ## 📊 Ergebnisse & Visualisierung
 Das Skript berechnet den Verbrauch in Litern auf 100 km (`235.21 / hwy`) und stellt den Zusammenhang zwischen Hubraum (`displ`) und Verbrauch grafisch dar. 
 
-*(Tipp: Hier kannst du später noch das Bild deiner Grafik einfügen!)*
+![Hubraum vs Kraftstoffverbrauch](spritfresser_plot.png)
